@@ -1,0 +1,12 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.2",
+    "currentBuildConfiguration": "Android-Crosswalk",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "currentService": {
+      "service": "appmobi"
+    },
+    "initialAutoPluginCount": 0
+  }
+}
